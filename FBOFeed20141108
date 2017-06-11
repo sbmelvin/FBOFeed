@@ -1,0 +1,8432 @@
+<PRESOL>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<ZIP>23297-5000
+<CLASSCOD>15
+<NAICS>336413
+<OFFADD>8000 Jefferson Davis Highway Richmond VA 23297-5000
+<SUBJECT>NSN 1560-01-070-9313 / FENCE ASSEMBLY / 24F: A10 AIRCRAFT
+<SOLNBR>SPE4A715R1247
+<RESPDATE>122614
+<CONTACT>Christopher Rose, Acquisition Specialist, Phone 8042795920, Fax 8042793516, Email christopher.rose@dla.mil - Holly V Simmons, Contracting Officer, Phone (804)279-2999, Fax (804)279-4437, Email holly.simmons@dla.mil
+<DESC>A 100% Small Business Set-Aside solicitation will be issued to establish an Indefinite Quantity Contract (IQC) for NSN 1560-01-070-9313, a FENCE ASSEMBLY used on the A10 Aircraft. The award will be for a 1-year base period and four 1-year option periods. The Estimated Annual Quantities (EAQ) are as follows: Base Year EAQ: 44 each; Option Year EAQ: 44 each. FOB: Origin; Inspection /Acceptance: Origin. <br /><br />Government First Article Testing (FAT) applies:<br />The required delivery is as follows:<br />520 days ARO: Government FAT Sample due<br />150 days: Government evaluation of FAT samples<br />344 days: Production Units due<br />--------------------------------------------------------------<br />1014 days ARO = Total Delivery inclusive of FAT and PLT<br />344 days ARO = Total Delivery with FAT waived, but PLT still applies<br /><br />Surge requirements do not apply. <br /><br />The proposed contract action is for supplies for which the Government intends to solicit and negotiate with only one or a limited number of sources under the authority of FAR 6.302. The OEM is Northrup Grumman (CAGE 26512) under part number 160D211001-27. DLA Aviation does not have a complete technical data package is available. The approved sources are CPI Aerostructures (CAGE 9U679), Nordam Group (CAGE 29957), Aerometals (CAGE 32664) and Aerospace Engineering &amp; Support (CAGE 1DA92).<br /><br />Interested persons may identify their interest and capability to respond to the requirement or submit proposals. This notice of intent is not a request for competitive proposals. However, all proposals received within forty-five days after date of publication of this synopsis will be considered by the Government. A determination by the Government not to compete with this proposed contract based upon responses to this notice is solely within the discretion of the Government. Information received will normally be considered solely for the purpose of determining whether to conduct a competitive procurement.<br /><br />Based upon market research, the Government is not using the policies contained in Part 12, Acquisition of Commercial Items, in its solicitation for the described supplies. However, interested persons may identify to the contracting officer their interest and capability to satisfy the Government's requirement with a commercial item within 15 days of this notice.<br /><br />This solicitation will include provision 52.215-9023, Reverse Auction. Since a reverse auction may be conducted, offerors are encouraged to access the Procurex system and review the reverse auction help tutorials at https//dla.procurexinc.com to learn more about how to participate in an auction.<br /><br />In order to receive an award, regardless of dollar value, contractors must be registered in the System For Award Management (sam.gov). The final contract award decision may be based upon a combination of price, past performance and other evaluation factors as described in the solicitation. The estimated solicitation issue date is 11/24/2014.<br /><br />A copy of the solicitation will be available via DIBBS at https://www.dibbs.bsm.dla.mil/ on the issue date cited in the RFP. Choose the RFP you wish to download. RFPs are in portable document format (PDF). To download and view these documents you will need the latest version of Adobe Acrobat Reader. This software is available free at http://www.adobe.com. A paper copy of this solicitation will not be available to requesters.
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCR-BSM/SPE4A715R1247/listing.html
+<DESC>Link To Document
+<SETASIDE>Total Small Business
+</PRESOL>
+
+
+<SNOTE>
+<DATE>1108
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Air Systems Command
+<LOCATION>Naval Air Warfare Center Aircraft Division Pax River
+<ZIP>20670
+<CLASSCOD>66
+<NAICS>334511
+<OFFADD>Building 441
+21983 Bundy Road Unit 7 Patuxent River MD 20670
+<SUBJECT>UH-60
+<SOLNBR>25112-15-0009
+<RESPDATE>112414
+<CONTACT>Benjamin  M Washburn, UH-60L VSS System, Phone (301) 757-9712, Email benjamin.washburn@navy.mil - Daniel L Chambers, Contracting Officer, Email daniel.chambers@navy.mil
+<DESC><strong>REQUEST FOR INFORMATION</strong>
+<p>The United States Naval Test Pilot School (UNSTPS) is seeking information from available sources to support the Variable Stability Helicopter program. Support must include a near-off the-shelf solution to a limited authority Variable Stability System (VSS) to be installed in USNTPS Army UH-60L helicopters.&nbsp; The VSS is being sought for training purposes only (vice flight research) such that only the limited authority (10%) Stability Augmentation System (SAS) actuators for the pitch, roll, and yaw axes are required to be under VSS control.</p>
+<p>The Contractor shall have designed and installed a VSS in an <strong>H-60 variant</strong> helicopter for use in a teaching environment and have experience in airworthiness approval in military airworthiness processes for VSS aircraft.&nbsp; The VSS would be operated by a single safety pilot occupying the left seat of the UH-60L and have controls and displays easily used and interpreted by an Engineering Test Pilot. &nbsp;Classroom and flight demonstration and instruction will be provided by Government Academic and Flight Instructors.</p>
+<p>This is a Request for Information (RFI) to determine the ability of industry to provide the required capability in a UH-60L platform with a minimum of non-recurring engineering costs and schedule lead-time based on a proven H-60 variant VSS system.</p>
+<p><br /><strong>DESIRED CAPABILITIES</strong></p>
+<p>The VSS shall allow the in flight demonstration of the effects of varying stability and control parameters about the pitch, roll, and yaw axes of the aircraft.&nbsp; The variation in flying qualities shall be accomplished by sensing control and flight variables and using those signals to modify the input made to the upper controls using the production aircraft, limited authority, Stability Augmentation System (SAS) series actuators provided for the pitch, roll, and directional channels.&nbsp; Controls and displays shall be designed such that a single safety pilot can operate the VSS in an educational environment while safely operating the host UH-60L. &nbsp;It is required that the system be designed such that one or all axes (Pitch, Roll, Yaw) may be selectively under VSS control.&nbsp; Axes not under VSS control shall use the production SAS control laws. Demonstrations will be flown with the Flight Path Stabilization (FPS) off.</p>
+<p>The features that can be varied shall include:</p>
+<p>&bull; Rate feedback (Damping, 3 axes, pitch, roll, yaw)<br />&bull; Attitude feedback (pitch, roll, yaw)<br />&bull; Translational rate feedback (lat, long and vertical)<br />&bull; Forward path gain (Sensitivity, 3 axes)<br />&bull; Rate and control coupling to 3 axes and from all 4 inceptors<br />&bull; Time delay, 3 axes<br />&bull; Forward path lead and lag (1st order, 3 axes)</p>
+<p><br />CAPABILITIES STATEMENT</p>
+<p>Interested businesses are requested to submit a brief capabilities statement package (no more than 20 pages in length, single-spaced, 12-point font minimum) demonstrating their ability to provide the above capability to the Government.&nbsp; This document shall contain, as a minimum:</p>
+<p><br />1. Company profile to include number of employees, annual revenue history, office location(s), DUNS number, and CAGE Code.</p>
+<p><br />2. Prior or current experience in providing an H-60 variant VSS solution that meets the requirement of paragraph 4.0 of the attached draft SOW, including contract number, organization supported, and point of contact and contact information. Describe how your solution addressed the general requirements outlined at paragraph 4.0 and briefly describe how it satisfied the particular requirements described in paragraphs 4.1 - 4.5.</p>
+<p>3. Describe how the following specific capabilities are addressed in the H-60 variant VSS solution described in question 2:</p>
+<p>3.1 Describe your solution for successfully and safely taking control of the production H-60 limited authority Stability Augmentation Systems (SAS) Actuators while host aircraft automatic flight control systems remained operating normally and ready to regain production control.</p>
+<p>3.2 Describe how your solution was used in an airborne H-60 teaching environment and operated by a single safety pilot.</p>
+<p>3.3 Describe your ruggedized computer system and how your solution managed features, gains and pre-stored configurations.</p>
+<p>3.4 Describe how you supported the military airworthiness effort to gain approval for installation and operation of the H-60 VSS.</p>
+<p>4. Documentation that supports the deliverables of the paragraph 5.0 of the attached draft SOW.</p>
+<p><br /><strong>RESPONSES</strong></p>
+<p>Interested parties are requested to respond to this RFI with a Capabilities Statement. Capabilities Statements in Microsoft Word for Office 2000 compatible format are due no later than 24 November, 2014, 15:00 EST. Responses shall be submitted via e-mail only to:</p>
+<p>Primary: Benjamin M. Washburn, AIR-2.5.1.12.1, (301) 757-9712; benjamin.washburn@navy.mil</p>
+<p>Alternate: Daniel L. Chambers, AIR-2.5.1.12, (301) 757-9796; daniel.chambers@navy.mil</p>
+<p><br /><em>THIS REQUEST IS FOR INFORMATIONAL PURPOSES ONLY. &nbsp;THIS IS NOT A REQUEST FOR PROPOSALS.&nbsp; IT DOES NOT CONSTITUTE A SOLICITATION AND SHALL NOT BE CONSTRUED AS A COMMITMENT BY THE GOVERNMENT.&nbsp; RESPONSES IN ANY FORM ARE NOT OFFERS AND THE GOVERNMENT IS UNDER NO OBLIGATION TO AWARD A CONTRACT AS A RESULT OF THIS ANNOUNCEMENT.&nbsp; NO FUNDS ARE AVAILABLE TO PAY FOR PREPARATION OF RESPONSES TO THIS ANNOUNCEMENT.&nbsp; ANY INFORMATION SUBMITTED BY RESPONDENTS TO THIS REQUIREMENT IS STRICTLY VOLUNTARY.</em></p>
+<LINK>
+<URL>https://www.fbo.gov/spg/DON/NAVAIR/N00421/25112-15-0009/listing.html
+<DESC>Link To Document
+<SETASIDE>N/A
+<POPCOUNTRY>US
+<POPZIP>20670
+<POPADDRESS>Contractor Facility and/or NAS Patuxent River.
+Lexington Park, MD
+</SNOTE>
+
+
+<COMBINE>
+<DATE>1108
+<YEAR>14
+<AGENCY>Department of Health and Human Services
+<OFFICE>Indian Health Service
+<LOCATION>Northern Navajo Medical Center
+<ZIP>87420-0160
+<CLASSCOD>Q
+<NAICS>621112
+<OFFADD>PO Box 160
+US Highway 491 North Shiprock NM 87420-0160
+<SUBJECT>Psychiatrist 
+<SOLNBR>NNMC-15-PSY-PS
+<RESPDATE>111714
+<CONTACT>Philoma Singer, Phone 5053687031, Email philoma.singer@ihs.gov
+<DESC>This is a solicitation for Physician Services; namely, Psychiatrist in accordance with the format in the Federal Acquisition Regulation (FAR) Subpart 12.6, Streamlined Procedures for Evaluation and Solicitation for Commercial Items, as supplemented with additional information included in this notice.
+<p>SOCIO-ECONOMIC CONSIDERATION: <br />As provided in FAR 19, 19.201, General policy: (a) It is the policy of the Government to provide maximum practicable opportunities in its acquisitions to small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. Such concerns must also have the maximum practicable opportunity to participate as subcontractors in the contracts awarded by any executive agency, consistent with efficient contract performance.</p>
+<p>PLACE OF PERFORMANCE: <br />Northern Navajo Medical Center<br />US HWY 491 North<br />Shiprock, NM 87420</p>
+<p>DESCRIPTION of SERVICE Requirements:<br />This is a non-personal service contract for the provision of providing psychiatry services to Northern Navajo Medical Center patients. We need a psychiatrist who can see PEDIATRIC patients.</p>
+<p>PERIOD OF PERFORMANCE:<br />Upon success credential and fingerprint clearance tentative January 1, 2015 to December 31, 2015.</p>
+<p>WORK SCHEDULE <br />Monday through Friday - 8:00 a.m. to 4:30 p.m.</p>
+<p>DUTIES:<br />**Please see attached Scope of Work</p>
+<p>EVALUATING REQUIREMENTS:</p>
+<p>In addition to the Checklist of Evaluation Requirements for candidates, the following experiences will be considered in the evaluation:</p>
+<p>-Most recent work experiences <br />-Child and adolescent experience <br />-Prior IHS/Navajo/American Indian/Alaska Native experience <br />-Electronic Health Record (E H R) entry experience <br />-Review of any history of ethical/legal problems</p>
+<p>ADDITIONAL INFORMATION:</p>
+<p>Indian Health Service or Veterans Administration experience preferred.</p>
+<p>The Contractor shall provide direct care services to NAIHS patients under the terms of this contract, appropriate and timely medical services in accordance with the Standards of Care established by recognized medical care organizations and in accordance with the policies and procedures of the SU's Medical Staff Bylaws, Rules and Regulations.</p>
+<p>1. The Contractor shall be subject to supervision and direction of the designated Government official.<br />2. Contractor shall be responsible for meals, and transportation.<br />3. Contractor may be sent home if the patient load does not require their services.<br />4. All state, federal, local taxes are to be included in the hourly rate.<br />5. We DO NOT accept fingerprints conducted by the Veterans Administration. Fingerprinting of contractors will be cleared and done prior to coming on board at Northern Navajo Medical Center.<br />6. HOUSING IS NOT AVAILABLE.<br />7. Only the Northern Navajo Medical Center Acquisitions personnel are authorized to make commitment on behalf of the Federal government.<br />8. Contractor will no longer be needed if the vacant position they are occupying is filled with a permanent employee. The contractor is here on an "as needed" basis.<br />9. Contractor must abide to Standard Precautions. NNMC provides safety supplies for employees to use to protect themselves.<br />10. Mandatory requirements are completed the first day at Northern Navajo Medical Center, prior to working.<br />11. The identification tag provided by NNMC will be worn at eye level position during work hours.<br />12. The contractor will abide to all government regulations, policies and procedures, failure to follow any of these requirements could result in termination. <br />13. The contractor will have access to the internet to use the Electronic Health Record. All documentation on patients will be completed prior to the contractor's shift is over.<br />14. Delinquent charts will be completed prior to the contractor completion of his/her contract at Northern Navajo Medical Center. If the delinquent chart is not completed the contract company will assume the responsibility of returning the contractor to Northern Navajo Medical Center to complete any outstanding delinquent charts.<br />15. Falsification of hours or any negative work performance, personal issues brought into the work site will not be tolerated while employed at NNMC. This practice could result in immediate termination of the contractor and the contract company will be notified through the Acquisition Office.<br />16. Complaints pertaining to the contractor will be submitted to the contracting company through the Acquisition Office for corrective actions and quality control purposes.</p>
+<p><br />CLINICAL PRIVILEGES</p>
+<p>The contractor must be credentialed and clinical privileges granted by the Northern Navajo Medical Center's clinical director or designee prior to providing services. The contractor must provide the following appropriate forms for privileging from the Northern Navajo Medical Center's credential's specialist upon award of this contract.</p>
+<p>1) Completed Application for IHS Medical Staff Appointment<br />2) Privileges Request Form<br />3) Completed NPDB Query Form<br />4) Medicare/Medicaid Acknowledgement Form<br />5) Medical Staff Bylaws, Rules &amp; Regulations Acknowledgement Form<br />6) All Hazards Plan Acknowledgement Form<br />7) Copies of ALL active state licenses (license must indicate an expiration date)<br />8) Copy of DEA Registration License / Controlled Substance<br />9) Copies of ALL Board Certifications<br />10) Copy of Medical School Degree<br />11) Copy of Residency Certificate(s)<br />12) Copy of NPI and UPIN Notification Letter<br />13) Copies of ECFMG (Educational Commission for Foreign Medical Graduates), if applicable<br />14) Copies of applicable BLS, ACLS, ATLS, PALS NRP (As indicated in Rules &amp; Regulations)<br />15) Copies of CME (Continuing Medical Education) for past 2 years<br />16) Copy(s) of malpractice insurance<br />17) Current Photo (Driver's License or Passport)<br />18) Curriculum Vitae</p>
+<p>The contractor must retain certification and licensure status as defined below throughout the term of the contract. Current and valid documents shall be provided to the Northern Navajo Medical Center's Credentialing Coordinator upon renewal of said documents.</p>
+<p>Valid current full and unrestricted license in all State, District of Columbia, the Commonwealth of Puerto Rico, or a Territory of the United States.</p>
+<p>Retain US Citizenship.</p>
+<p>Health status allowing physical and mental ability to carry out required functions. This is to be verified on an annual basis by the employing agency or a copy of a physical examination.</p>
+<p>CLIENT BACKGROUND</p>
+<p>Many of the patients served may only speak a native language and reside on the reservation. The contractor should be able to show sensitivity to cross-cultural and languages differences and have the ability to work through interpreters as necessary for non-English speaking patients. In situation where interpretation is required, the Northern Navajo Medical Center's staff will provide these services.</p>
+<p><br />****FINGERPRINTING CARD FBI-FD 258 (PROVIDED BY THE FEDERAL GOVERNMENT) FINGERPRINTING MUST BE CLEARED AND APPROVED PRIOR TO THE START DATE.</p>
+<p>SOLICITATION:<br />This is a Request for Quotation (RFQ).</p>
+<p>The North American Industry Classification System (NAICS) is 621112 - Offices of Physicians Mental Health Specialists. The Government anticipates award of a Firm Fixed Price contract. The Government intends to evaluate proposals based on compliance with solicitation requirements, technical capabilities, prior performance and cost. The Government intends to award one contract as a result of this solicitation. An award will made based on the requirements and evaluation factors. The government reserves the right to issue awards to the contractors (s) whose quotes (s) represents the best value as defined by FAR 2.101. In determining best value, the following factors will be considered: experience, qualification, price and past performance (agency) of each proposed candidate.</p>
+<p>It is the firm's or individuals' responsibility to be familiar with applicable provisions and clauses.</p>
+<p>APPLICABLE PROVISIONS AND CLAUSES<br />The following Federal Acquisition Regulation (FAR) provisions and clauses apply to this acquisition (the full text of a clause may be accessed electronically at this address: FAR: https://www.acquistion.gov): The following Provisions and Clauses apply to this solicitation and are incorporated by full text:</p>
+<p>52.252-2 CLAUSES INCORPORATED BY REFERENCE (Feb 1998)This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text upon request the Contracting Officer will make their full text available.<br />52.202-1 Definitions (Jul 2004)<br />52.203-3 Gratuities (Apr 1984)<br />52.203-5 Covenant Against Contingent Fees (Apr 1984)<br />52.203-7 Anti-Kickback Procedures (Jul 1995)<br />52.204-3 Taxpayer Identification (Oct 1998)<br />52.204-7 Central Contractor Registration (Apr 2008)<br />52.222-3 Convict Labor (Jun 2003)<br />52.223-6 Drug-Free Workplace (May 2001)<br />52.229-3 Federal, State, and Local Taxes (Apr 2003)<br />52.232-1 Payments (Apr 1984)<br />52.232-8 Discounts for Prompt Payment (Feb 2002)<br />52.232-18 Availability of Funds (Apr 1984)<br />52.232-33 Payment by Electronic Funds Transfer-Central Contractor Registration. (Oct 2003)<br />52-233-1 Disputes (Jul 2002)<br />52.237-3 Continuity of Services (Jan 1991)<br />52.243-1 Changes - Fixed Price (Aug 1987)<br />52.246-4 Inspection of Services - Fixed Price (Aug 1996)<br />52.249-1 Termination for Convenience of the Government (Fixed-Price) (Short Form) (Apr 1984)<br />52.249-4 Termination for Convenience of the Government (Services) (Short Form) (Apr 1984)<br />52.249-8 Termination for Default (Fixed-Price Supply and Service) (Apr 1984)<br />52.204-9 Personal Identity Verification of Contractor Personnel (Jan 2011)<br />(a) The Contractor shall comply with agency personal identity verification procedures identified in the contract that implement Homeland Security Presidential Directive-12 (HSPD-12), Office of Management and Budget (OMB) guidance M-05-24, and Federal Information Processing Standards Publication (FIPS PUB) Number 201.<br />(b) The Contractor shall account for all forms of Government-provided identification issued to the Contractor employees in connection with performance under this contract. The Contractor shall return such identification to the issuing agency at the earliest of any of the following, unless otherwise determined by the Government;<br />(1) When no longer needed for contract performance.<br />(2) Upon completion of the Contractor employee's employment.<br />(3) Upon contract completion or termination.<br />(c) The Contracting Officer may delay final payment under a contract if the Contractor fails to comply with these requirements.<br />(d) The Contractor shall insert the substance of clause, including this paragraph (d), in all subcontracts when the subcontractor's employees are required to have routine physical access to a Federally-controlled facility and/or routine access to a Federally-controlled information system. It shall be the responsibility of the prime Contractor to return such identification to the issuing agency in accordance with the terms set forth in paragraph (b) of this section, unless otherwise approved in writing by the Contracting Officer.</p>
+<p>FAR 52.237-7 Indemnification and Medical Liability Insurance. <br />INDEMNIFICATION AND MEDICAL LIABILITY INSURANCE (JAN 1997) <br />(a) It is expressly agreed and understood that this is a non-personal services contract, as defined in Federal Acquisition Regulation (FAR) 37.101, under which the professional services rendered by the Contractor are rendered in its capacity as an independent contractor. The Government may evaluate the quality of professional and administrative services provided, but retains no control over professional aspects of the services rendered, including by example, the Contractors professional medical judgment, diagnosis, or specific medical treatments. The Contractor shall be solely liable for and expressly agrees to indemnify the Government with respect to any liability producing acts or omissions by it or by its employees or agents. The Contractor shall maintain during the term of this contract liability insurance issued by a responsible insurance carrier of not less than the following amount(s) per specialty per occurrence. <br />(b) An apparently successful offeror, upon request by the Contracting Officer, shall furnish prior to contract award evidence of its insurability concerning the medical liability insurance required by paragraph (a) of this clause. <br />(c) Liability insurance may be on either an occurrences basis or on a claims-made basis. If the policy is on a claims-made basis, an extended reporting endorsement (tail) for a period of not less than 3 years after the end of the contract term must also be provided. <br />(d) Evidence of insurance documenting the required coverage for each health care provider who will perform under this contract shall be provided to the Contracting Officer prior to the commencement of services under this contract. If the insurance is on a claims-made basis and evidence of an extended reporting endorsement is not provided prior to the commencement of services, evidence of such endorsement shall be provided to the Contracting Officer prior to the expiration of this contract. Final payment under this contract shall be withheld until evidence of the extended reporting endorsement is provided to the Contracting Officer. <br />(e) The policies evidencing required insurance shall also contain an endorsement to the effect that any cancellation or material change adversely affecting the Governments interest shall not be effective until 30 days after the insurer or the Contractor gives written notice to the Contracting Officer. If, during the performance period of the contract the Contractor changes insurance providers, the Contractor must provide evidence that the Government will be indemnified to the limits specified in paragraph (a) of this clause, for the entire period of the contract, either under the new policy, or a combination of old and new policies. <br />(f) The Contractor shall insert the substance of this clause, including this paragraph (f), in all subcontracts under this contract for health care services and shall require such subcontractors to provide evidence of and maintain insurance in accordance with paragraph (a) of this clause. At least 5 days before the commencement of work by any subcontractor, the Contractor shall furnish to the Contracting Officer evidence of such insurance.</p>
+<p>Additional Health &amp; Human Service Acquisition Regulation (HHSAR) clauses:</p>
+<p>352.202-1 Definitions <br />352.224-70 Confidentiality of information <br />352.232-9 Withholding of contract payments <br />352.249-14 Excusable delays <br />352.270-5 Key personnel <br />352.270-11 Privacy Act <br />352.270-13 Tobacco-free facilities <br />352.270-18 Crime Control Act - Requirement for background checks <br />352.270-19 Electronic information and technology accessibility</p>
+<p>GENERAL INSTRUCTIONS</p>
+<p>CV/Profiles, candidate direct contact telephone number, three recent (WITHIN 3 years) reference letters with valid, working phone numbers and availability dates of the candidate shall be submitted by EMAIL as an attachment on one PDF file. Other company information such as cover letter, pricing, quote, certificate of liability, status etc. shall be submitted by EMAIL as a second PDF file attachment. Subject line should read: Psychiatrist NNMC PS.</p>
+<p>Documents are to be submitted to Philoma Singer, Contract Specialist in the Acquisitions Department at Northern Navajo Medical Center, US HWY 491 North, Shiprock, NM, 87420 or via email to Philoma.singer@ihs.gov. Phone number: (505) 368-7031. Final proposals are due NO LATER THAN November 17, 2014 by 4:00PM Mountain Standard Time.</p>
+<p>CONTRACTING OFFICE ADDRESS: <br />PO Box 160<br />US Highway 491 North<br />Shiprock, New Mexico 87420-0160</p>
+<p>PRIMARY POINT OF CONTACT: <br />Philoma Singer, Contract Specialist<br />Email: philoma.singer@ihs.gov<br />Phone: 505 368 7031<br />Fax: 505 368 6490</p>
+<LINK>
+<URL>https://www.fbo.gov/spg/HHS/IHS/GPO16835/NNMC-15-PSY-PS/listing.html
+<DESC>Link To Document
+<SETASIDE>N/A
+<POPCOUNTRY>US
+<POPZIP>87420
+<POPADDRESS>US Hwy 491 North
+Shiprock, NM
+</COMBINE>
+
+
+<COMBINE>
+<DATE>1108
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Portland
+<ZIP>97208-2946
+<CLASSCOD>J
+<NAICS>336611
+<OFFADD>Attn:  CECT-NWP
+PO Box 2946 Portland OR 97208-2946
+<SUBJECT>Modification and Relocation of a Portable Floating Fish Collector, Lane County, Oregon
+<SOLNBR>W9127N-15-R-0010
+<RESPDATE>120214
+<CONTACT>Kathryn A Newhouse, Contracting Officer, Phone 503-808-4620, Fax 503-808-4605, Email Kathryn.A.Newhouse@usace.army.mil - Jim Russell, Procurement Technician , Phone 503-808-4604, Email James.A.Russell@usace.army.mil
+<DESC>Solicitation W9127N-15-R-0010 is hereby posted, to include three attachments: The Solicitation, Plans, and Drawings. <br /><br />There is a non-mandatory Site Visit that will be held on 13 November 2014, at 11AM at Cougar Reservoir Powerhouse Conference Room. Located in the Willamette Valley, Lane County, Oregon. See Clause langauge below:<br /><br />52.237-4001 - Site Visit<br />(a) Offerors or quotes are urged and expected to inspect the site where the work will be performed.<br /><br />(b) An organized site visit has been scheduled for 13 NOVEMBER AT 11AM at Cougar Reservoir Powerhouse Conference Room, located within Willamette Valley, in Lane County, Oregon. (For GPS purposes, there is not a physical address for this meeting location).<br /><br />All attendees shall bring Personal Floating Devices, steel toed boots (close-toed at minimum), and hard hats.<br /><br />In order to participate in the site visit, the Offeror shall contact Kathryn A. Newhouse,<br />Kathryn.A.Newhouse@usace.army.mil and Jared Edwards, Jared.C.Edwards@usace.army.mil with the followin information:<br />- Names of people who will be attending the site visit,<br />- The Company they work for,<br />- Date and place of birth of each person to be on site,<br />- and any other information he may need for security purposes.<br /><br />This information must be provided at least 24 hours prior to the site visit. Anyone not on the approved list prior to the start time of the site visit will not be allowed through the security gate.
+<LINK>
+<URL>https://www.fbo.gov/spg/USA/COE/DACA57/W9127N-15-R-0010/listing.html
+<DESC>Link To Document
+<SETASIDE>Total Small Business
+<POPCOUNTRY>US
+<POPADDRESS>Cougar Reservoir, OR
+</COMBINE>
+
+
+<MOD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>HQ Arnold Engineering Development Complex (AEDC) - Arnold
+<ZIP>37389-1335
+<CLASSCOD>67
+<NAICS>333316
+<OFFADD>100 Kindel Drive, Suite A-335 Arnold AFB TN 37389-1335
+<SUBJECT>High Speed Visible Imagers
+<SOLNBR>FA9101-14-R-0022
+<NTYPE>PRESOL
+<RESPDATE>112514
+<CONTACT>Miriam J Harris, Contract Specialist, Phone 9314545139, Email miriam.harris.1@us.af.mil - Tony G Clayborne, Contracting Officer, Phone 931-454-3918, Fax 931-454-7330, Email Tony.Clayborne@arnold.af.mil
+<DESC>The purpose of this amendment is to provide a response to questions received.<br />
+<LINK>
+<URL>https://www.fbo.gov/spg/USAF/AFMC/AEDC/FA9101-14-R-0022/listing.html
+<DESC>Link To Document
+<SETASIDE>N/A
+<POPCOUNTRY>US
+<POPZIP>37389
+<POPADDRESS>100 Kindel Dr.
+Suite A332
+Arnold AFB, TN
+</MOD>
+
+
+<MOD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Department of Commerce
+<OFFICE>National Oceanic and Atmospheric Administration (NOAA)
+<LOCATION>Western Acquisition Division-Boulder
+<ZIP>80305-3328
+<CLASSCOD>99
+<NAICS>541990
+<OFFADD>325 Broadway - MC3 Boulder CO 80305-3328
+<SUBJECT>Notice of Intent to Award a Sole Source Contract Scientific Observatory Services At Trinidad Head Observatory (THD)
+<SOLNBR>1172014
+<NTYPE>SNOTE
+<RESPDATE>112114
+<CONTACT>Mark Caban, Phone 303-497-6875, Fax 303-497-3163, Email mark.caban@noaa.gov
+<DESC>
+<LINK>
+<URL>https://www.fbo.gov/spg/DOC/NOAA/MASC/1172014/listing.html
+<DESC>Link To Document
+<SETASIDE>N/A
+<POPCOUNTRY>US
+<POPADDRESS>
+Eureka, CA
+</MOD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<ZIP>23297
+<CLASSCOD>15
+<NAICS>336413
+<OFFADD>DLA AVIATION
+ASC SUPPLIER OPER AE AND AF DIV
+8000 JEFFERSON DAVIS HWY
+RICHMOND VA  23297
+USA
+<SUBJECT>15--DOOR ASSEMBLY,SEPAR
+<SOLNBR>SPE4A714TP162
+<CONTACT>Ronald Gamble804-279-3534
+
+<a href="mailto:Ronald.Gamble@dla.mil">Ronald.Gamble@dla.mil</a>
+<AWDNBR>SPE4A715M1484
+<AWDAMT>$147505.36
+<AWDDATE>110814
+<LINENBR>0002
+<ARCHDATE>11232014
+<AWARDEE>DUTCH VALLEY SUPPLY CO. DBA 970 PROGRESS CENTER AVE  LAWRENCEVILLE 30043-4803 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCR-BSM/Awards/SPE4A715M1484.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>Ronald.Gamble@dla.mil
+<DESC>Ronald.Gamble@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<ZIP>43218
+<CLASSCOD>59
+<NAICS>335931
+<OFFADD>DLA LAND AND MARITIME
+ACTIVE DEVICES DIVISION
+PO BOX 3990
+COLUMBUS OH  43218-3990
+USA
+<SUBJECT>59--SHIELDING GASKET,EL
+<SOLNBR>SPE7M114Q5291
+<CONTACT>Brad Luffy614-692-4078
+
+<a href="mailto:BRAD.LUFFY@DLA.MIL">BRAD.LUFFY@DLA.MIL</a>
+<AWDNBR>SPE7M515M1573
+<AWDAMT>$26029.08
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>PREMIER SHIELDING COMPANY INC DBA 310 CENTAURUS ST  CORPUS CHRISTI 78405-3625 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCC-BSM/Awards/SPE7M515M1573.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>BRAD.LUFFY@DLA.MIL
+<DESC>BRAD.LUFFY@DLA.MIL
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<ZIP>43218
+<CLASSCOD>59
+<NAICS>334416
+<OFFADD>DLA LAND AND MARITIME
+ACTIVE DEVICES DIVISION
+PO BOX 3990
+COLUMBUS OH  43218-3990
+USA
+<SUBJECT>59--SHIELDING GASKET,EL
+<SOLNBR>SPE7M914TJ763
+<CONTACT>Richard Miller614-692-1149
+
+<a href="mailto:Richard.A.Miller@dla.mil">Richard.A.Miller@dla.mil</a>
+<AWDNBR>SPE7M515M1576
+<AWDAMT>$33461.10
+<AWDDATE>110814
+<LINENBR>0003
+<ARCHDATE>11232014
+<AWARDEE>J.G.B. ENTERPRISES, INC. DBA 115 METROPOLITAN DR  LIVERPOOL 13088-5335 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCC-BSM/Awards/SPE7M515M1576.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>Richard.A.Miller@dla.mil
+<DESC>Richard.A.Miller@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<ZIP>43218
+<CLASSCOD>59
+<NAICS>335314
+<OFFADD>DLA LAND AND MARITIME
+ACTIVE DEVICES DIVISION
+PO BOX 3990
+COLUMBUS OH  43218-3990
+USA
+<SUBJECT>59--RELAY,ELECTROMAGNET
+<SOLNBR>SPE7M515T0519
+<NTYPE>COMBINE  
+<CONTACT>Richard Miller614-692-1149
+
+<a href="mailto:Richard.A.Miller@dla.mil">Richard.A.Miller@dla.mil</a>
+<AWDNBR>SPE7M515M1577
+<AWDAMT>$35036.76
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>HAMMOND ELECTRONICS, INC. DBA 1230 WEST CENTRAL BLVD  ORLANDO 32805-1815 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCC-BSM/SPE7M515T0519/listing.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>Richard.A.Miller@dla.mil
+<DESC>Richard.A.Miller@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<ZIP>43218
+<CLASSCOD>25
+<NAICS>336211
+<OFFADD>DLA LAND AND MARITIME
+LAND SUPPLIER OPNS VEHICLE SPT
+PO BOX 3990
+COLUMBUS OH  43218-3990
+USA
+<SUBJECT>25--BODY,CARGO TRUCK
+<SOLNBR>SPE7L314U0170
+<CONTACT>John McCluskey614-692-9935
+
+<a href="mailto:John.McCluskey@dla.mil">John.McCluskey@dla.mil</a>
+<AWDNBR>SPE7L315M0920
+<AWDAMT>$53750.60
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>SCOTT HEAVY EQUIPMENT, INC DBA 6100 HANSON RD  MADISONVILLE 42431-6454 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCC-BSM/Awards/SPE7L315M0920.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>John.McCluskey@dla.mil
+<DESC>John.McCluskey@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<ZIP>43218
+<CLASSCOD>59
+<NAICS>335314
+<OFFADD>DLA LAND AND MARITIME
+ACTIVE DEVICES DIVISION
+PO BOX 3990
+COLUMBUS OH  43218-3990
+USA
+<SUBJECT>59--RELAY,ELECTROMAGNET
+<SOLNBR>SPE7M514TA639
+<CONTACT>Richard Miller614-692-1149
+
+<a href="mailto:Richard.A.Miller@dla.mil">Richard.A.Miller@dla.mil</a>
+<AWDNBR>SPE7M515M1579
+<AWDAMT>$38070.18
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>GEMCAP COMPONENTS INC. DBA 623 BICYCLE PATH UNIT 3  PRT JEFF STA 11776-3407 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCC-BSM/Awards/SPE7M515M1579.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>Richard.A.Miller@dla.mil
+<DESC>Richard.A.Miller@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<ZIP>43218
+<CLASSCOD>59
+<NAICS>335312
+<OFFADD>DLA LAND AND MARITIME
+ACTIVE DEVICES DIVISION
+PO BOX 3990
+COLUMBUS OH  43218-3990
+USA
+<SUBJECT>59--SYNCHRO,TRANSMITTER
+<SOLNBR>SPE7M515T0327
+<NTYPE>COMBINE  
+<CONTACT>Richard Miller614-692-1149
+
+<a href="mailto:Richard.A.Miller@dla.mil">Richard.A.Miller@dla.mil</a>
+<AWDNBR>SPE7M515M1581
+<AWDAMT>$27187.60
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>DIMO CORP. DBA 44-A SOUTHGATE BLVD  NEW CASTLE 19720-2068 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCC-BSM/SPE7M515T0327/listing.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>Richard.A.Miller@dla.mil
+<DESC>Richard.A.Miller@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<ZIP>19111
+<CLASSCOD>93
+<NAICS>327999
+<OFFADD>DLA TROOP SUPPORT
+CONSTRUCTION & EQUIPMENT (HRD WARE)
+700 ROBBINS AVENUE PHILA PA 19111
+PHILADELPHIA PA  19111
+USA
+<SUBJECT>93--NONMETALLIC SPECIAL
+<SOLNBR>SPE8ES14T1669
+<CONTACT>Kathleen Adamow-Wandall215-737-7891
+
+<a href="mailto:kate.adamow-wandall@dla.mil">kate.adamow-wandall@dla.mil</a>
+<AWDNBR>SPE8ES15M0148
+<AWDAMT>$44888.69
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>TRIMAN INDUSTRIES INC DBA 1042 INDUSTRIAL DR  WEST BERLIN 08091-9164 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCP-I-BSM/Awards/SPE8ES15M0148.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>kate.adamow-wandall@dla.mil
+<DESC>kate.adamow-wandall@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical
+<ZIP>19111-5096
+<CLASSCOD>65
+<NAICS>339112
+<OFFADD>700 Robbins Avenue Philadelphia PA 19111-5096
+<SUBJECT>Plug, Ear, Combat Arms, Double Ended, 50 PR
+<SOLNBR>SPE2DS14R0001
+<CONTACT>Dave Zarenkiewicz, Contracting Officer, Phone 215.737.3906, Email David.Zarenkiewicz@dla.mil - Brian C Schott, Contracting Officer, Phone 215-737-2121, Fax 215-737-5555, Email Brian.Schott@dla.mil
+<AWDNBR>SPE2DS15DN001
+<AWDAMT>$6,495,825.00 (Contract Maximum)
+<AWDDATE>110714
+<LINENBR>0001, 0002, 0003
+<AWARDEE>New Dynamics, 15 Fortune Rd. West
+, Middletown, NY 10941 US
+<DESC><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 9.5pt">Award of a&nbsp;5 year Firm-Fixed price IDIQ contract, SPE2DS15DN001 to Ability One mandatory source, New Dynamics</span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 9.5pt">., IAW FAR subpart 8.7 and 16.501, 16.504, 52.216-18, 52.216-19 and 52.216-22.&nbsp; </span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 9.5pt">Product is on the Ability One Procurment List through Source America Vendor New Dynamics.&nbsp; Material is for DLA Direct requirements to be delivered to the following locations:&nbsp;</span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 9.5pt">DDSP (New Cumberland, PA), California (CA) - DDJC, Georgia (GA) - DDWG, and Oklahoma (OK) - DDDO.&nbsp;<br /><br />Base year and Option Period 1 consist of 24 months.&nbsp; Option&nbsp;Period 2 consist of 12 months.&nbsp;<br /></span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 9.5pt"><br />Maximum contract value is $6,495,825.00 (inclusive of Options). Guaranteed minimum of base year is </span><span style="FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 9.5pt">$699,580.00. Annual estimated dollars are $1,574,055.00.</span><span style="FONT-SIZE: 10pt; mso-fareast-font-family: 'Times New Roman'"><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCP-M/Awards/SPE2DS15DN001.html
+<DESC>Link To Document
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<ZIP>19111
+<CLASSCOD>65
+<NAICS>339113
+<OFFADD>DLA TROOP SUPPORT
+MEDICAL SUPPLY CHAIN MD SURG FSF
+700 ROBBINS AVENUE
+PHILADELPHIA PA  19111
+USA
+<SUBJECT>65--FIRST AID KIT,UNIVE
+<SOLNBR>
+<CONTACT>Anh Lam215-737-7477
+
+<a href="mailto:Anh.Lam@dla.mil">Anh.Lam@dla.mil</a>
+<AWDNBR>SPE2DS15FN014
+<AWDAMT>$45478.40
+<AWDDATE>110814
+<LINENBR>0001
+<ARCHDATE>11232014
+<AWARDEE>SOUTHEASTERN KENTUCKY 1205 W CUMBERLAND GAP PKWY  CORBIN 40701-5902 US
+<DESC>No Description Provided
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCP-M-BSM/Awards/SPE2DS15FN014.html
+<DESC>Link To Document
+<EMAIL>
+<EMAIL>Anh.Lam@dla.mil
+<DESC>Anh.Lam@dla.mil
+</AWARD>
+
+
+<AWARD>
+<DATE>1108
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Military Sealift Command
+<LOCATION>MSC Norfolk
+<ZIP>23511
+<CLASSCOD>71
+<NAICS>337215
+<OFFADD>Building SP-64
+471 East C Street
+Bldg SP64
+Naval Station Norfolk Norfolk VA 23511
+<SUBJECT>USS PONCE - Lockers and Berthing Racks
+<SOLNBR>N32205-14-T-2275
+<CONTACT>PATRICK D BROWN, Phone 757-443-5913, Fax 757-443-5982, Email patrick.d.brown@NAVY.MIL
+<AWDNBR>N32205-14-P-2252
+<AWDAMT>$123,745.00
+<AWDDATE>092214
+<ARCHDATE>11122014
+<AWARDEE>Pacific Mairitime Industries, 1790 Dornoch Ct, San Diego, CA 92154-7206 US
+<DESC>
+<LINK>
+<URL>https://www.fbo.gov/notices/d38e33ff52f0a14b5924a4461848d9b8
+<DESC>Link To Document
+</AWARD>
+
+
+<JA>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Contracting Services Office - Philadelphia
+<ZIP>19111-5096
+<CLASSCOD>70
+<NAICS>519190
+<OFFADD>700 Robbins Avenue Philadelphia PA 19111-5096
+<SUBJECT>Online Technical Library
+<SOLNBR>SP4702-11-Q-0028
+<CONTACT>Anthony J. Piccari, Contract Specialist, Phone 215-737-0576, Fax 215-737-7942, Email anthony.piccari@dla.mil
+<STAUTH>FAR 6.302-1
+<AWDNBR>SP4702-13-C-1025
+<MODNBR>P00002
+<AWDDATE>103114
+<ARCHDATE>12092014
+<DESC>Attached is the Justification and Approval for Other Than Full and Open Competition for the Online Technical Library.&nbsp; This justification authorizes and approves a six month extension to the period of performance of Online Technical Library services for contract number SP4702-12-C-0028/ SP4702-13-C-1025.
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCP-PB/SP4702-11-Q-0028/listing.html
+<DESC>Link To Document
+</JA>
+
+
+<JA>
+<DATE>1108
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Subsistence
+<ZIP>19111-5096
+<CLASSCOD>89
+<NAICS>311999
+<OFFADD>700 Robbins Avenue Philadelphia PA 19111-5096
+<SUBJECT>FULL LINE FOOD DISTRIBUTOR
+<SOLNBR>SPM30004R4012
+<CONTACT>Tien Q. Nguyen, Phone 215 737 3998, Email Tien.Nguyen@dla.mil - John E Riccio, Contracting Officer, Phone 215-737-7582, Fax 215-737-3376, Email John.Riccio@dla.mil
+<STAUTH>FAR 6.302-1
+<AWDNBR>SPE30015D3110
+<AWDDATE>110814
+<DESC><p>This is a notice that an award will be made IAW 10 U.S.C. 2304(C)(1), Justification of Other Than Full and Open Competition, as a 91 days contract to Shamrock Foods Company Arizona (CAGE Code 08YW2), to continue to provide Prime Vendor Services to the customers in the Arizona area.&nbsp; This contract SPE300-15-D-3110 will run from 09 November 2014 through 07 February 2015 or until award of a new contract.&nbsp; The Justification will be posted at time of award.&nbsp;</p>
+<LINK>
+<URL>https://www.fbo.gov/spg/DLA/J3/DSCP-H/SPM30004R4012/listing.html
+<DESC>Link To Document
+</JA>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Government Printing Office
+<OFFICE>Acquisition Services
+<LOCATION>Acquisition Services
+<SOLNBR>Solicitation-33787
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Combat Command
+<LOCATION>20 CONS
+<SOLNBR>FA4803-15-R-0002
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0908
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Combat Command
+<LOCATION>355 CONS
+<SOLNBR>FA4877-14-R-0014
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Combat Command
+<LOCATION>99 CONS
+<SOLNBR>F3G1DB4282A001 
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0924
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Combat Command
+<LOCATION>99 CONS
+<SOLNBR>FA4861-14-R-C001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1022
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Combat Command
+<LOCATION>99 CONS
+<SOLNBR>F3G5FB4283A002-AerialDisplay
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Education and Training Command
+<LOCATION>502d Contracting Squadron
+<SOLNBR>FA3016-BPA-15-F0006
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1103
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Education and Training Command
+<LOCATION>502d Contracting Squadron
+<SOLNBR>FM304742537406
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Education and Training Command
+<LOCATION>Columbus AFB, Contracting Squadron
+<SOLNBR>SDVS
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0829
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Education and Training Command
+<LOCATION>Maxwell AFB Contracting Squadron
+<SOLNBR>Synopsis_FA3300-14-R-0044_Mid-BayShores_TVreceptionInternetservice
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Global Strike Command
+<LOCATION>341 CONS
+<SOLNBR>F2W6A14253A002
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0924
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>AFLCMC / AFSC / AFNWC - HILL AFB
+<SOLNBR>FA8224-14-R-INVM
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>AFRL/RIK -  Rome 
+<SOLNBR>FA8751-15-Q-SSNO
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>AFRL/RQK - WPAFB
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>FA865014C2447P00001
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1010
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>AFTC/PZIE - Eglin
+<SOLNBR>FA2487-14-C-0255
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1022
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>AFTC/PZIO - Eglin
+<SOLNBR>FM282342900393
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>PK/PZ - Robins AFB
+<SOLNBR>FA8540-12-R-32613
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>PK/PZ - Robins AFB
+<SOLNBR>FA8530-14-R-31419
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>PK/PZ Tinker AFB
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>FA8222-11-G-0001-UN1J
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Materiel Command
+<LOCATION>Tinker AFB - AFSC/PZIO
+<SOLNBR>FA8126-14-Q-0153
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0714
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Reserve Command
+<LOCATION>94 CONF/LGC
+<SOLNBR>FA6703-14-T-0008
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Force Space Command
+<LOCATION>SMC - Space and Missile Systems Center
+<SOLNBR>
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Mobility Command
+<LOCATION>436th CONS
+<SOLNBR>DAFBCRASHFIRERESCUE
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Air Mobility Command
+<LOCATION>628th CONS
+<SOLNBR>F1M2X14283A001
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Agriculture
+<OFFICE>Animal and Plant Health Inspection Service
+<LOCATION>Administrative Services Division/Purchasing
+<SOLNBR>AG-6395-S-14-0177
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Rock Island (ACC-RI)
+<SOLNBR>W91QU06A0003
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0827
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Rock Island (ACC-RI)
+<SOLNBR>W52P1J-14-R-0190
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Rock Island (ACC-RI)
+<SOLNBR>W52P1J-14-R-BROCADE
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Rock Island (ACC-RI)
+<SOLNBR>W52P1J14XRFIS
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Rock Island (ACC-RI)
+<SOLNBR>GS00Q09BGD0037
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Rock Island (ACC-RI)
+<SOLNBR>W52P1J-15-C-3000
+<NTYPE>AWARD
+<AWDNBR>W52P1J-15-C-3000
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Warren (ACC-WRN)(DTA)
+<SOLNBR>W56HZV-14-T-A491
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Warren (ACC-WRN)(DTA)
+<SOLNBR>W56HZV13R0481
+<NTYPE>AWARD
+<AWDNBR>W56HZV15P0021
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC - Warren (ACC-WRN)(DTA)
+<SOLNBR>W56HZV14R0141
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC- Warren (ACC-WRN)(SIAD)
+<SOLNBR>W912GY14T0067
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0905
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division B
+<SOLNBR>MARKET-SURVEY-5684-1
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0905
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division B
+<SOLNBR>MARKET-SURVEY-5685-1
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0407
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division B
+<SOLNBR>W15P7T-14-R-E601
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1013
+<YEAR>10
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division B
+<SOLNBR>W15P7T-11-R-A609
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division B
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>W15P7T15D0002
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division B
+<SOLNBR>MARKET-SURVEY-5686-1
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Aberdeen Division D
+<SOLNBR>W91ESABREACHDOORS
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0819
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Adelphi 
+<SOLNBR>W911QX14T0200
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Adelphi 
+<SOLNBR>W911QX-14-R-0030
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-APG - Adelphi 
+<SOLNBR>W911QX-14-T-0350
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Aviation)
+<SOLNBR>W58RGZ-14-R-0279
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Aviation)
+<SOLNBR>W58RGZ-14-R-0280
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0623
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Aviation)
+<SOLNBR>W58RGZ14R0270
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Missile)
+<SOLNBR>W31P4Q-14-R-0131
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Missile)
+<SOLNBR>W31P4Q14R0178
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Missile)
+<SOLNBR>W31P4Q14T0243
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (Missile)
+<SOLNBR>W31P4Q-15-T-0002
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (SPS)
+<SOLNBR>W9124P-14-R-9999
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA - (SPS)
+<SOLNBR>W9124P-14-R-9998
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA-CCAD - (SPS)
+<SOLNBR>W912NW-14-T-0084
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command
+<LOCATION>ACC-RSA-CCAD - (SPS)
+<SOLNBR>W45N7V42270063
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0904
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, ECC
+<LOCATION>Mission Division (PARC Americas 410th CSB)
+<SOLNBR>W91QEX-14-T-XXXZ
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, ECC
+<LOCATION>RCO Stuttgart (PARC Europe, 409th CSB)
+<SOLNBR>W91WFU14T0030
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, ECC
+<LOCATION>RCO Stuttgart (PARC Europe, 409th CSB)
+<SOLNBR>W91WFU-14-P-0014
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, ECC
+<LOCATION>RCO Stuttgart (PARC Europe, 409th CSB)
+<SOLNBR>W91FU14T0030
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0820
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, ECC
+<LOCATION>RCO Vicenza (PARC Africa, 414th CSB)
+<SOLNBR>W912PF-14-T-0099
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Buchanan (RC)
+<SOLNBR>W912C3-14-Q-004B
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Buchanan (RC)
+<SOLNBR>W912C3-14-Q-0018A
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0827
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Campbell
+<SOLNBR>W9124814T0043
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Gordon
+<SOLNBR>0010546435
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Gordon
+<SOLNBR>0010585421
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Leavenworth
+<SOLNBR>W91QF4-14-T-0155
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Lee
+<SOLNBR>W91QF5-14-3877
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Lee
+<SOLNBR>W91QF5-14-3687
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Leonard Wood
+<SOLNBR>W911S7-14-T-0164
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Leonard Wood
+<SOLNBR>W911S7-14-T-0170
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Sill
+<SOLNBR>W9124L14T0130
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Stewart
+<SOLNBR>Q5358
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Stewart
+<SOLNBR>Q7143
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Stewart
+<SOLNBR>W9124M-14-Q-ES09
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Fort Stewart
+<SOLNBR>W9124M-14-Q-ES12
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0710
+<YEAR>13
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Joint Base Lewis-McChord
+<SOLNBR>W911S8-13-R-0008
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - Joint Base Lewis-McChord
+<SOLNBR>UNAWRD-14-Q-7508
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - West Point
+<SOLNBR>14TMRVRESEARCH
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC - West Point
+<SOLNBR>W911SD1417968
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Army Contracting Command, MICC
+<LOCATION>MICC Center - Fort Knox
+<SOLNBR>W9124D-14-R-0041
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1030
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Augusta VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA24715R0053
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of Energy
+<OFFICE>Brookhaven National Laboratory (DOE Contractor)
+<LOCATION>Brookhaven
+<SOLNBR>JM281197
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0428
+<YEAR>14
+<AGENCY>Department of the Treasury
+<OFFICE>Bureau of Engraving and Printing (BEP)
+<LOCATION>Office of Acquisition
+<SOLNBR>BEP-RFQ-14-0451
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>Bureau of Indian Affairs
+<LOCATION>BIA - DAPM
+<SOLNBR>6542274815
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>Bureau of Indian Affairs
+<LOCATION>BIA - DAPM
+<SOLNBR>0040145794
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Bureau of Labor Statistics
+<LOCATION>Procurement and Property Management
+<SOLNBR>14-BOLS-OEU-NAT-0241
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1030
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Bureau of Medicine and Surgery
+<LOCATION>Naval Medical Research Center
+<SOLNBR>N3239815RCA3001
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Bureau of Prisons
+<LOCATION>FCI Jesup
+<SOLNBR>RP0012-15
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Bureau of Prisons
+<LOCATION>Field Acquisition Office (FAO)
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0506
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>Bureau of Reclamation
+<LOCATION>BOR - All Ofices
+<SOLNBR>0040148036
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1108
+<YEAR>13
+<AGENCY>Department of the Interior
+<OFFICE>Bureau of Reclamation
+<LOCATION>BOR - All Ofices
+<SOLNBR>
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>Bureau of Reclamation
+<LOCATION>BOR - All Ofices
+<SOLNBR>R14PS01037
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Health and Human Services
+<OFFICE>Centers for Disease Control and Prevention
+<LOCATION>Procurement and Grants Office (Atlanta)
+<SOLNBR>16855
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Charleston VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA24714N1679
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0709
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Columbus VAOPC
+<LOCATION>Department of Veterans Affairs Outpatient Clinic
+<SOLNBR>VA25014B0509
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Library of Congress
+<OFFICE>Contracts Services
+<LOCATION>Contracts Services
+<SOLNBR>LCLSM15Q0007
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Government Printing Office
+<OFFICE>Customer Services Department
+<LOCATION>Charleston Satellite Printing Procurement Office
+<SOLNBR>530309
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1022
+<YEAR>14
+<AGENCY>Government Printing Office
+<OFFICE>Customer Services Department
+<LOCATION>Columbus Regional Printing Procurement Office
+<SOLNBR>Jacket540041
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>Customs and Border Protection
+<LOCATION>Procurement Directorate - DC
+<SOLNBR>20078976
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Defense Logistics Agency Detachment
+<LOCATION>DLA TACOM - Warren Acquisition Center
+<SOLNBR>SPRDL114T0137
+<NTYPE>AWARD
+<AWDNBR>SPRDL115P0007
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Defense Logistics Agency Detachment
+<LOCATION>DLA TACOM - Warren Acquisition Center
+<SOLNBR>SPRDL114R0195
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Defense Logistics Agency Detachment
+<LOCATION>DLA TACOM - Warren Acquisition Center
+<SOLNBR>SPRDL113R0197
+<NTYPE>AWARD
+<AWDNBR>SPRDL114D00050005
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1029
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Detroit VAMC
+<LOCATION>John D. Dingell Department of Veterans Affairs Medical Center
+<SOLNBR>VA25115P0234
+<NTYPE>AWARD
+<AWDNBR>VA251-15-P-0234
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1029
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Detroit VAMC
+<LOCATION>John D. Dingell Department of Veterans Affairs Medical Center
+<SOLNBR>VA25115P0203
+<NTYPE>AWARD
+<AWDNBR>VA251-15-P-0239
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Direct Reporting Unit - Air Force District of Washington
+<LOCATION>Acquisition Division, AFDW/PK
+<SOLNBR>IBMtoPDFConversion 
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0114
+<YEAR>14
+<AGENCY>Department of the Air Force
+<OFFICE>Direct Reporting Units
+<LOCATION>USAF Academy - 10 CONS
+<SOLNBR>FA700014T0014
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Broadcasting Board of Governors
+<OFFICE>Director, Office of Contracts
+<LOCATION>Office of Contracts (CON)
+<SOLNBR>BBG39-Q-15-PERSIAN-015
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Broadcasting Board of Governors
+<OFFICE>Director, Office of Contracts
+<LOCATION>Office of Contracts (CON)
+<SOLNBR>BBG39-Q-15-PERSIAN-014
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514R1497
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T0078
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515Q0023
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514Q3718
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4311
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0930
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4349
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0926
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4275
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615X0018
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0904
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614X1311
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0916
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE4A715C0046
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0912
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514R1476
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFT92
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TBT68
+<NTYPE>AWARD
+<AWDNBR>SPE4A515M0920
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPEFA315Q0059
+<NTYPE>AWARD
+<AWDNBR>SPEFA315M0053
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T2492
+<NTYPE>AWARD
+<AWDNBR>SPE4A415V1662
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515T2617
+<NTYPE>AWARD
+<AWDNBR>SPE4A515V0355
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1007
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515Q0074
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPM4A112G000501V2
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TQ155
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0990
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714R25630001
+<NTYPE>AWARD
+<AWDNBR>SPE4A715C0059
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T3505
+<NTYPE>AWARD
+<AWDNBR>SPE4A615V1934
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0530
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614R1943
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TQ353
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFU67
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A715T0025
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0921
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614TLQ21
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A715T0006
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE4A715C0039
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T0077
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714R2985
+<NTYPE>AWARD
+<AWDNBR>SPE4A715C0054
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TQ533
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515T0566
+<NTYPE>AWARD
+<AWDNBR>SPM4A110G000202YQ
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TCJ10
+<NTYPE>AWARD
+<AWDNBR>SPE4A515M0933
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TN344
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M1006
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0924
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A5-14-R-1537
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFT82
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4325
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514R1307
+<NTYPE>AWARD
+<AWDNBR>SPE4A114G000707TV
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TDH23
+<NTYPE>AWARD
+<AWDNBR>SPM4A112G000300HR
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614Q4619
+<NTYPE>AWARD
+<AWDNBR>SPRTA114G0002Y82G
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TQ351
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515T0865
+<NTYPE>AWARD
+<AWDNBR>SPM4A111G0010107M
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514R1306
+<NTYPE>AWARD
+<AWDNBR>SPE4A114G000707TR
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TAD08
+<NTYPE>AWARD
+<AWDNBR>SPE4A113G0007053D
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TDM37
+<NTYPE>AWARD
+<AWDNBR>SPE4A114G000707UD
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0418
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614R1749
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0903
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514R1428
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TP082
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0845
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>W58RGZ12G0001TYPT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614R1218
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE4A615M1352
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515T0836
+<NTYPE>AWARD
+<AWDNBR>SPE4A415V1637
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614TLX22
+<NTYPE>AWARD
+<AWDNBR>SPE4A615V1921
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0914
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFE97
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615U0003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615Q0011
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPEFA515Q0158
+<NTYPE>AWARD
+<AWDNBR>SPEFA515M0272
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TP706
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0999
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514R1496
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T0019
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4334
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T0076
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614-X-0043
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TH528
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0843
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A715T0054
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0643
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TBL01
+<NTYPE>AWARD
+<AWDNBR>SPE4A515M0886
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0603
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A7-14-R-2454
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514Q3692
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4337
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A515T1220
+<NTYPE>AWARD
+<AWDNBR>SPM4A111G000100S6
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TG846
+<NTYPE>AWARD
+<AWDNBR>SPE4A113G0007053G
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0926
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4248
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A6-14-R-1926
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614R1839
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TAE43
+<NTYPE>AWARD
+<AWDNBR>SPRTA112G0006Z6XG
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFU70
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0930
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614Q4685
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T1265
+<NTYPE>AWARD
+<AWDNBR>SPE4A615M1364
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A5-15-X-0002
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE4A114G000707PV
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A614Q2645
+<NTYPE>AWARD
+<AWDNBR>SPE4A615M1381
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFU06
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TQ550
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPEA615X0032
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPRPA111G002ZZ6CX
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T2841
+<NTYPE>AWARD
+<AWDNBR>SPE4A415V1646
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TFT86
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T0087
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A6-14-R-1926
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714TP346
+<NTYPE>AWARD
+<AWDNBR>SPE4A715M0981
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0926
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A714Q4237
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A514TCQ28
+<NTYPE>AWARD
+<AWDNBR>SPE4A515M0719
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE4A515C0036
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Aviation - BSM
+<SOLNBR>SPE4A615T0994
+<NTYPE>AWARD
+<AWDNBR>SPE4A415V1590
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Contracting Services Office - Philadelphia - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SP470115F0014
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0507
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Contracting Services Office - Richmond
+<SOLNBR>SPE4A614R1649
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Energy
+<SOLNBR>SPE600-15-Q-0201
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Energy
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE60015M8610
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Energy
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE60015M6013
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Energy
+<SOLNBR>SPE600-15-R-0404
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Energy
+<SOLNBR>SPE600-15-R-0403
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime
+<SOLNBR>SPE7L314R0122
+<NTYPE>AWARD
+<AWDNBR>SPE7L315C0001
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0908
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime
+<SOLNBR>SPE7L414R0226
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0703
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime
+<SOLNBR>SPRAL1-14-R-0043
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0908
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime
+<SOLNBR>SPE7L414R0236
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0730
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime
+<SOLNBR>SPRAL1-14-R-0050
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L514T5968
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC15T0128
+<NTYPE>AWARD
+<AWDNBR>SPE7MC15M0696
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L514T5979
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TS713
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L214TA915
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M414T4593
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6655
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M214Q1849
+<NTYPE>AWARD
+<AWDNBR>SPE7M215M0204
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14TA905
+<NTYPE>AWARD
+<AWDNBR>SPE7MC15M0689
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6666
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TS747
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L014T6486
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1010
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M215C0002
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114Q4952
+<NTYPE>AWARD
+<AWDNBR>SPE7M115M0385
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M014TE308
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L714Q0193
+<NTYPE>AWARD
+<AWDNBR>SPE7L715M0408
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L015T0125
+<NTYPE>AWARD
+<AWDNBR>SPE7L015V1026
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TR611
+<NTYPE>AWARD
+<AWDNBR>SPE7L315V0802
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514TB392
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114TDA59
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M414T4590
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M215T0022
+<NTYPE>AWARD
+<AWDNBR>SPE7M215M0210
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0930
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514X0060
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6237
+<NTYPE>AWARD
+<AWDNBR>SPRMM114G11000029
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L315T0744
+<NTYPE>AWARD
+<AWDNBR>SPE7L315M0686
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6357
+<NTYPE>AWARD
+<AWDNBR>SPE7L415M0238
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114TDA18
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514TB421
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0917
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114TCQ04
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M414T4588
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14TD332
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514TA780
+<NTYPE>AWARD
+<AWDNBR>SPE7M515M0895
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TS714
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L714T4491
+<NTYPE>AWARD
+<AWDNBR>SPE7L715M0371
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514T9841
+<NTYPE>AWARD
+<AWDNBR>SPM4A111G000703P6
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6665
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L014T6518
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L315T0994
+<NTYPE>AWARD
+<AWDNBR>SPE7L315M0679
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14Q2058
+<NTYPE>AWARD
+<AWDNBR>SPRPA111G001YU31M
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L514T5744
+<NTYPE>AWARD
+<AWDNBR>SPE7L515V0164
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0913
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L514Q0361
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L515Q0008
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TP365
+<NTYPE>AWARD
+<AWDNBR>SPE7L315V0782
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114TDA40
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TS720
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M214Q1960
+<NTYPE>AWARD
+<AWDNBR>SPE7M215M0195
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M215T0078
+<NTYPE>AWARD
+<AWDNBR>SPE7M215M0209
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14U0226
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514Q3138
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M814R00060002
+<NTYPE>AWARD
+<AWDNBR>SPE7M815C0003
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314Q0574
+<NTYPE>AWARD
+<AWDNBR>SPE7L315M0220
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L214TA954
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514TB413
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114TDA36
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14U0227
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6645
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L714T4497
+<NTYPE>AWARD
+<AWDNBR>SPE7L715M0477
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M914TP282
+<NTYPE>AWARD
+<AWDNBR>SPE7M515M0888
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M515T0507
+<NTYPE>AWARD
+<AWDNBR>SPE7M515V0331
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M014TE260
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M815Q0003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114TBZ11
+<NTYPE>AWARD
+<AWDNBR>SPE7M515M1049
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L514T5703
+<NTYPE>AWARD
+<AWDNBR>SPM4A111G0006U345
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L514T5967
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M914TN331
+<NTYPE>AWARD
+<AWDNBR>SPE7M915M0364
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514T6322
+<NTYPE>AWARD
+<AWDNBR>SPE7M515M0314
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M014TE340
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514Q3139
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L214TA911
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M914TQ119
+<NTYPE>AWARD
+<AWDNBR>SPE7M915M0347
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L315T0063
+<NTYPE>AWARD
+<AWDNBR>SPE7L315M0655
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L014U0019
+<NTYPE>AWARD
+<AWDNBR>SPE7L015M0350
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L214T5554
+<NTYPE>AWARD
+<AWDNBR>SPE7L215V0420
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0923
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M914TQ302
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TS709
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M014TE261
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M414T4591
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6674
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L014T6493
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0910
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14R0162
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M915T0196
+<NTYPE>AWARD
+<AWDNBR>SPE7M915M0356
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L714T2559
+<NTYPE>AWARD
+<AWDNBR>SPE7L715M0379
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0923
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L315Q0003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L414T6652
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M514TB420
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M814T5197
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M114Q5346
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7LX-14-R-0262
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7L314TS647
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M214T4718
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14TD330
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7MC14TD333
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Land and Maritime - BSM
+<SOLNBR>SPE7M115T1817
+<NTYPE>AWARD
+<AWDNBR>SPE7M515V0321
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Clothing & Textiles
+<SOLNBR>SPE1C115Q0015
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0923
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Clothing & Textiles - BSM
+<SOLNBR>SPE1C114T2194
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Clothing & Textiles - BSM
+<SOLNBR>SPE1C114T2213
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Clothing & Textiles - BSM
+<SOLNBR>SPE1C114T2224
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0808
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment
+<SOLNBR>SPE8EB-14-Q-0315
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE8EH14T2853
+<NTYPE>AWARD
+<AWDNBR>SPE8EJ15M0014
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE8E515T0480
+<NTYPE>AWARD
+<AWDNBR>SPE8E515V0207
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5E414TM593
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EJ14TD945
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5E914T8886
+<NTYPE>AWARD
+<AWDNBR>SPE5E015V0289
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EC14Q0363
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5E814TH517
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EK14TD267
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5E814TH456
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5E714TC810
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EM14TD383
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE8E514T5168
+<NTYPE>AWARD
+<AWDNBR>SPE8E515M0244
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE8E515T0496
+<NTYPE>AWARD
+<AWDNBR>SPE8E515V0205
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EK14T6459
+<NTYPE>AWARD
+<AWDNBR>SPE5EK15V0410
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5E814TH234
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EJ14TD944
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EC14T1112
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE8E814Q0531
+<NTYPE>AWARD
+<AWDNBR>SPE8E815M0094
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE5EC14T1123
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Construction & Equipment - BSM
+<SOLNBR>SPE8EH14T3087
+<NTYPE>AWARD
+<AWDNBR>SPE8EH15M0103
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EH14T3313
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E514T6757
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1003
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8ED15Q0011
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1003
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8ED15Q0008
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EG14T4597
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E314T2823
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EN14T4116
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E814T3946
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE2DS15FN008
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EF14T2957
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EF14T2950
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EB14T5014
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1003
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E515Q0013
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EF14T2952
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E514T6773
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8EH14T3310
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E814T3945
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E714T5249
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E714T5270
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1006
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E515Q0021
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE2DS15FN009
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>SPE2D115FQ007
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E514T6775
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E614T0202
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0928
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Medical - BSM
+<SOLNBR>SPE8E814T3953
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Subsistence - BSM
+<SOLNBR>SPE30315Q0004
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Defense Logistics Agency
+<OFFICE>DLA Acquisition Locations
+<LOCATION>DLA Troop Support - Subsistence - BSM
+<SOLNBR>SPE3SE15Q0073
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Drug Enforcement Administration
+<LOCATION>Office of Acquisition Management
+<SOLNBR>D-14-OA-0068
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX091415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EXMHP1415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX141415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX061415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX041415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX081415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX151415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX161415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX051415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX021415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX111415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EXNP1415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX131415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EXDental1415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX071415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EXTEAP1415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX011415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX101415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EX031415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Exeter Job Corps Center
+<SOLNBR>EXPHY1415
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1007
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Northlands Job Corps Center
+<SOLNBR>NJCC_2014_INDUSTRIAL_HYGIENIST_OR_ENVIRONMENTAL_CONSULTANT
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1007
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Northlands Job Corps Center
+<SOLNBR>NJCC-2014-Re-RoofingHBI-Welding-Building32
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Treasure Island Job Corps
+<SOLNBR>TI-SOW-14b-001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Employment Training Administration
+<LOCATION>Treasure Island Job Corps
+<SOLNBR>TI-SOW-14b-003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Erie VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA24414R1583
+<NTYPE>AWARD
+<AWDNBR>VA244-15-A-0002
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0725
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Fayetteville (AR) VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA25614Q1257
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0319
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>10481384
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W9124214T9048
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0502
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>R0061
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0506
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W9124214T9045
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W9124Q-14-T-0032
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0501
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>0010470587
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0507
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>10488865
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>0010517559
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0502
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>410102Q1
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0430
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W9124Q-14-T-CISCO
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>PR0010520882
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0501
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>0010476825
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>RFQ14-045
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0428
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>0010505971
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0506
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W9124D-14-Q-5543
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0425
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W91RUS-14-T-0104
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>0010510508
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W912LM-14-T-8003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0501
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>0010494469
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>FedBid
+<LOCATION>FedBid.com -- for Department of Army procurements only
+<SOLNBR>W912J2-14-T-001B
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Environmental Protection Agency
+<OFFICE>FEDBID
+<LOCATION>OAMFEDBID
+<SOLNBR>01255
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Environmental Protection Agency
+<OFFICE>FEDBID
+<LOCATION>OAMFEDBID
+<SOLNBR>NetApp0030
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1030
+<YEAR>14
+<AGENCY>General Services Administration
+<OFFICE>Federal Acquisition Service (FAS)
+<LOCATION>Assisted Acquisition Services Division (4QFA)
+<SOLNBR>ID04140094
+<NTYPE>AWARD
+<AWDNBR>GS04Q15DBC0006
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Transportation
+<OFFICE>Federal Aviation Administration (FAA)
+<LOCATION>Headquarters
+<SOLNBR>18178
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Federal Bureau of Investigation
+<LOCATION>Procurement Section
+<SOLNBR>DJF-15-3800-PR-0016860
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Federal Bureau of Investigation
+<LOCATION>Procurement Section
+<SOLNBR>DJF-15-3800-PR-0016865
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Federal Prison Industries/UNICOR
+<LOCATION>Contracting Office/Memphis
+<SOLNBR>PKMT-10017
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Federal Prison Industries/UNICOR
+<LOCATION>Contracting Office/Phoenix
+<SOLNBR>VCVH15-012
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>Fish and Wildlife Service
+<LOCATION>CGS-WO
+<SOLNBR>4014481
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0725
+<YEAR>14
+<AGENCY>Department of Agriculture
+<OFFICE>Forest Service
+<LOCATION>R-2 San Juan National Forest
+<SOLNBR>AG-82AK-S-13-0025
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0623
+<YEAR>14
+<AGENCY>Department of Agriculture
+<OFFICE>Forest Service
+<LOCATION>R-2 San Juan National Forest
+<SOLNBR>AG-82CS-S-14-0018
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0522
+<YEAR>14
+<AGENCY>Department of Agriculture
+<OFFICE>Forest Service
+<LOCATION>R-2 San Juan National Forest
+<SOLNBR>AG-82CS-S-14-0016
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>National Aeronautics and Space Administration
+<OFFICE>Glenn Research Center
+<LOCATION>Office of Procurement
+<SOLNBR>NNC14ZDF020J
+<NTYPE>AWARD
+<AWDNBR>NNC14BA15B
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1018
+<YEAR>14
+<AGENCY>Department of Health and Human Services
+<OFFICE>Indian Health Service
+<LOCATION>Phoenix Area Ofc Phoenix Indian Medical Center
+<SOLNBR>PIMC-2015B
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of the Treasury
+<OFFICE>Internal Revenue Service (IRS)
+<LOCATION>National Office Procurement (OS:A:P)
+<SOLNBR>A15-005
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Long Beach VANLO
+<LOCATION>Department of Veterans Affairs
+<SOLNBR>VA26215Q0050
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1029
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Long Beach VANLO
+<LOCATION>Department of Veterans Affairs
+<SOLNBR>VA26215Q0086
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of Transportation
+<OFFICE>Maritime Administration (MARAD)
+<LOCATION>MAR-380
+<SOLNBR>DTMA-93-Q-1500001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1022
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Military Sealift Command
+<LOCATION>MSC DC
+<SOLNBR>MS-15-004
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Military Sealift Command
+<LOCATION>MSC Norfolk
+<SOLNBR>N32205-15-T-1205
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1018
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Military Sealift Command
+<LOCATION>MSC Norfolk
+<SOLNBR>N32205-15-T-5206
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Military Sealift Command
+<LOCATION>MSC Norfolk
+<SOLNBR>N32205-15-T-1216
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0829
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Nashville VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA24914Q0673
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0926
+<YEAR>14
+<AGENCY>Other Defense Agencies
+<OFFICE>National Geospatial-Intelligence Agency
+<LOCATION>OCSU - Headquarters Support
+<SOLNBR>HM021014T0015
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0702
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>127 MSC, Contracting Division
+<SOLNBR>W912JB14T8004
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0709
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>127 MSC, Contracting Division
+<SOLNBR>W912JB14T8005
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0908
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>132 FW/LGC, IOWA ANG
+<SOLNBR>W912LP-14-T-0035
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0815
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>141 ARW/LGC, WASHINGTON AIR NATIONAL GUARD CONTRACTING OFFICE
+<SOLNBR>F6TYCC4197AW02
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0924
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>175th MSG/MSC
+<SOLNBR>W912K6-14-T-0033
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Alabama
+<SOLNBR>W912JA-14-Q-0003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Alaska
+<SOLNBR>W91ZRU-14-P-0078A
+<NTYPE>AWARD
+<AWDNBR>W91ZRU-14-P-0078A
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Alaska
+<SOLNBR>W91ZRU-14-P-0072A
+<NTYPE>AWARD
+<AWDNBR>W91ZRU-14-P-0072A
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Alaska
+<SOLNBR>W91ZRU-14-P-0062
+<NTYPE>AWARD
+<AWDNBR>W91ZRU-14-P-0062
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0903
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Maryland
+<SOLNBR>W912K6-14-Q-1096
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0815
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Texas
+<SOLNBR>W912L1-14-R-0062
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0815
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Texas
+<SOLNBR>W912L1-14-R-0063
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0829
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Washington
+<SOLNBR>10575034
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for Washington
+<SOLNBR>10589377
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>National Guard Bureau
+<LOCATION>USPFO for West Virginia
+<SOLNBR>10540909
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Department of Health and Human Services
+<OFFICE>National Institutes of Health
+<LOCATION>Office of Research Facilities
+<SOLNBR>HHS-NIH-OD-OLAO-SBSS-14-015
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Department of Energy
+<OFFICE>National Security Technologies LLC (DOE Contractor)
+<LOCATION>National Security Technologies LLC
+<SOLNBR>101614-SH-14
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Air Systems Command
+<LOCATION>NAVAIR HQ
+<SOLNBR>N00019-14-P1-PMA-299-0790
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Air Systems Command
+<LOCATION>Naval Air Warfare Center Aircraft Division Lakehurst
+<SOLNBR>N68335-15-R-0009
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Air Systems Command
+<LOCATION>Naval Air Warfare Center Aircraft Division Pax River
+<SOLNBR>N00421-14-R-0077
+<NTYPE>AWARD
+<AWDNBR>N00421-15-C-0004
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Air Systems Command
+<LOCATION>Naval Air Warfare Center Aircraft Division Pax River
+<SOLNBR>N00421-15-T-0026
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Facilities Engineering Command
+<LOCATION>NAVFAC SOUTHWEST, POINT LOMA FEAD/CODE ROPML
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1027
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Facilities Engineering Command
+<LOCATION>NAVFAC Washington
+<SOLNBR>N4008013R0352
+<NTYPE>AWARD
+<AWDNBR>N4008015D0452
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0924
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Sea Systems Command
+<LOCATION>NSWC Carderock Division
+<SOLNBR>N65540-15-RFI-001
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Sea Systems Command
+<LOCATION>NSWC Crane Division
+<SOLNBR>N0016414T0223
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Sea Systems Command
+<LOCATION>NSWC IHEODTD
+<SOLNBR>N0017415SN0001
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Sea Systems Command
+<LOCATION>NUWC Division Newport
+<SOLNBR>N66604-10-D-034A-0011
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1021
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Sea Systems Command
+<LOCATION>Portsmouth Navy Shipyard
+<SOLNBR>N39040-15-T-0022
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0403
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Sea Systems Command
+<LOCATION>SUPSHIP Newport News
+<SOLNBR>N6279314RA087
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1105
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>CJTF-HOA
+<SOLNBR>N3654A-15-R-9001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0506
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center Jacksonville
+<SOLNBR>N6309314RCD0018
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1021
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center Norfolk
+<SOLNBR>N0018915TN003
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0507
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center Norfolk
+<SOLNBR>N4008514RCG3026
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0507
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center Pearl
+<SOLNBR>R3021541000284
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center Puget Sound
+<SOLNBR>n6275841017420
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center San Diego
+<SOLNBR>N00244-14-T-0070
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center San Diego
+<SOLNBR>N00244-14-T-0071
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Fleet Logistics Center San Diego
+<SOLNBR>N00244-14-T-0069
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010410GA1091181
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1023
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>SPRMM114RPN74
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010414GA0041084
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>N0010414QFK14
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010410GA1091180
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1023
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>N0010414PR26427
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0922
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>N0010414QFK15
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>N0010414QBL69
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1001
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>N0010415RD001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010410GA1091179
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010413GA3031009
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010415PFA40
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010411DD0051025
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Mechanicsburg PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0010410GA0071043
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH322
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH326
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH330
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH331
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH333
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH325
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH338
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH341
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1025
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>N0038314D025N7001
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH323
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH329
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH334
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH335
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH337
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH327
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH332
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH340
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>SPRPA114QZ072
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1018
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>SPRPA115T5023
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH339
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0916
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>NAVSUP Weapon Systems Support Philadelphia PA
+<SOLNBR>N0038314QH336
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0930
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Naval Supply Systems Command
+<LOCATION>Navy Exchange Service Command (NEXCOM)
+<SOLNBR>1400002
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>Non-Appropriated Funds
+<LOCATION>Army & Air Force Exchange Service
+<SOLNBR>QRP15-0011
+<NTYPE>SSALE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Environmental Protection Agency
+<OFFICE>Office of Acquisition Management
+<LOCATION>EPA/Headquarters
+<SOLNBR>
+<NTYPE>AWARD
+<AWDNBR>EP-15-H-000022
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Environmental Protection Agency
+<OFFICE>Office of Acquisition Management
+<LOCATION>Region IX
+<SOLNBR>RFQ-CA-14-00030
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0610
+<YEAR>14
+<AGENCY>Environmental Protection Agency
+<OFFICE>Office of Acquisition Management
+<LOCATION>RTP Procurement Operations Division, E105-02
+<SOLNBR>SOL-NC-14-00014
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0804
+<YEAR>14
+<AGENCY>Environmental Protection Agency
+<OFFICE>Office of Acquisition Management
+<LOCATION>RTP Procurement Operations Division, E105-02
+<SOLNBR>RFQ-RT-14-00065
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0508
+<YEAR>14
+<AGENCY>Department of State
+<OFFICE>Office of Acquisitions
+<LOCATION>Acquisition Management
+<SOLNBR>SAQMMA14Q0134
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0921
+<YEAR>14
+<AGENCY>Department of State
+<OFFICE>Office of Acquisitions
+<LOCATION>Acquisition Management
+<SOLNBR>SAQMMA14Q0249
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of State
+<OFFICE>Office of Acquisitions
+<LOCATION>Florida Regional Center
+<SOLNBR>2015-JAG-INL-Mexico1
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of State
+<OFFICE>Office of Acquisitions
+<LOCATION>Regional Procurement Support Office Frankfurt, Germany
+<SOLNBR>SGE50015R0003
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0930
+<YEAR>14
+<AGENCY>Social Security Administration
+<OFFICE>Office of Budget, Finance, Quality and Management
+<LOCATION>Office of Acquisition and Grants
+<SOLNBR>SSA-RFI-14-0059
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0929
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Office of Naval Research
+<LOCATION>Naval Research Laboratory/Supply
+<SOLNBR>N00173-14-Q-0496
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Office of Naval Research
+<LOCATION>ONR
+<SOLNBR>ONRBAA-14-001A
+<NTYPE>AWARD
+<AWDNBR>N00014-15-P-1107
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Office of Naval Research
+<LOCATION>ONR
+<SOLNBR>SBIRSOL20142
+<NTYPE>AWARD
+<AWDNBR>N00014-15-P-1096
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0506
+<YEAR>14
+<AGENCY>Department of Labor
+<OFFICE>Office of the Assistant Secretary for Administration and Management 
+<LOCATION>Office of Procurement Services
+<SOLNBR>465-14MR-2583
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>Office of the Chief Procurement Officer
+<LOCATION>Office of Procurement Operations
+<SOLNBR>HSHQDC-14-Q-00342
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1003
+<YEAR>14
+<AGENCY>Federal Communications Commission
+<OFFICE>Office of the Managing Director
+<LOCATION>Contracts and Purchasing Center
+<SOLNBR>USAC_IT-2014-09-006
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Federal Communications Commission
+<OFFICE>Office of the Managing Director
+<LOCATION>Contracts and Purchasing Center
+<SOLNBR>USAC-IT-2014-10-004
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Federal Communications Commission
+<OFFICE>Office of the Managing Director
+<LOCATION>Contracts and Purchasing Center
+<SOLNBR>FCC-WL-2014-10-20
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1006
+<YEAR>14
+<AGENCY>Department of Justice
+<OFFICE>Offices/Boards/Divisions
+<LOCATION>Executive Office for the United States Attorneys-EOUSA
+<SOLNBR>DJJ-RFP-EOA02-15-0058
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1006
+<YEAR>14
+<AGENCY>Washington Metropolitan Area Transit Authority
+<OFFICE>Procurement and Materiels
+<LOCATION>PRMT-JGB
+<SOLNBR>FQ15053
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1021
+<YEAR>14
+<AGENCY>Defense Information Systems Agency
+<OFFICE>Procurement Directorate
+<LOCATION>DITCO-Europe
+<SOLNBR>WE20OCT146043
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1022
+<YEAR>14
+<AGENCY>Defense Information Systems Agency
+<OFFICE>Procurement Directorate
+<LOCATION>DITCO-Europe
+<SOLNBR>WE17OCT146028
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0424
+<YEAR>14
+<AGENCY>Defense Information Systems Agency
+<OFFICE>Procurement Directorate
+<LOCATION>DITCO-Scott
+<SOLNBR>NA08APR145623
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1027
+<YEAR>14
+<AGENCY>Defense Information Systems Agency
+<OFFICE>Procurement Directorate
+<LOCATION>DITCO-Scott
+<SOLNBR>SG02APR135603
+<NTYPE>AWARD
+<AWDNBR>HC1013-15-M-0068
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Health and Human Services
+<OFFICE>Program Support Center
+<LOCATION>Division of Acquisition Management
+<SOLNBR>SAM136791
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1019
+<YEAR>14
+<AGENCY>Department of Health and Human Services
+<OFFICE>Program Support Center
+<LOCATION>Division of Acquisition Management
+<SOLNBR>IHS0001
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>General Services Administration
+<OFFICE>Public Buildings Service (PBS)
+<LOCATION>Acquisition Management Division (3PQC)
+<SOLNBR>4WV0107
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>General Services Administration
+<OFFICE>Public Buildings Service (PBS)
+<LOCATION>Charleston Field Office (3PSSC)
+<SOLNBR>GS-03P-15-QN-C-0002
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0918
+<YEAR>14
+<AGENCY>General Services Administration
+<OFFICE>Public Buildings Service (PBS)
+<LOCATION>FMSPD, Contracts Section (9P3PMFC)
+<SOLNBR>GS-09P-14-KSD-0026
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1029
+<YEAR>14
+<AGENCY>General Services Administration
+<OFFICE>Public Buildings Service (PBS)
+<LOCATION>LASC-Real Estate Services Branch (9PLE)
+<SOLNBR>4CA1090
+<NTYPE>AWARD
+<AWDNBR>LCA03339
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1023
+<YEAR>14
+<AGENCY>Department of Energy
+<OFFICE>SLAC National Accelerator Lab
+<LOCATION>SLAC National Accelerator Lab
+<SOLNBR>SLAC_250348(LL)
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>Space and Naval Warfare Systems Command
+<LOCATION>SPAWAR Systems Center Atlantic
+<SOLNBR>N65236-15-C-1003
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0829
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>St. Cloud VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA26314Q5103
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>United States Postal Service
+<OFFICE>Supplies and Services Purchasing
+<LOCATION>Material Handling CMC
+<SOLNBR>3A-15-A-0010 
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>Syracuse VAMC
+<LOCATION>Department of Veterans Affairs Medical Center
+<SOLNBR>VA52814R0119
+<NTYPE>AWARD
+<AWDNBR>VA528-15-C-0012
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>Transportation Security Administration
+<LOCATION>Headquarters TSA
+<SOLNBR>
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Commerce
+<OFFICE>U. S. Census Bureau
+<LOCATION>Suitland
+<SOLNBR>
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>U. S. Geological Survey
+<LOCATION>USGS - All Offices
+<SOLNBR>0040144890
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0417
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>U. S. Geological Survey
+<LOCATION>USGS - All Offices
+<SOLNBR>0040144489
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0422
+<YEAR>14
+<AGENCY>Department of the Interior
+<OFFICE>U. S. Geological Survey
+<LOCATION>USGS - All Offices
+<SOLNBR>0040140597
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0822
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Baltimore
+<SOLNBR>W912DR-14-T-0103
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0818
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Baltimore
+<SOLNBR>W912DR-14-T-0101
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Baltimore
+<SOLNBR>CHESS-105365
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Buffalo
+<SOLNBR>W912P4-15-T-0001
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Fort Worth
+<SOLNBR>W9126G-14-R-ECSO5
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Honolulu
+<SOLNBR>W9128A-14-F-0011
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Huntington
+<SOLNBR>W91237-14-T-00194
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Huntington
+<SOLNBR>W91237-14-T-0183
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Huntington
+<SOLNBR>W9123714T0187
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0813
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Jacksonville
+<SOLNBR>W912EP14R0018
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0905
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Kansas City
+<SOLNBR>W912DQ14R3001
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0905
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Little Rock
+<SOLNBR>W9127S-14-T-0067
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Little Rock
+<SOLNBR>W9127S-14-T-0077
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Louisville
+<SOLNBR>W912QR-14-T-0086
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Louisville
+<SOLNBR>W912QR-14-T-0088
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Louisville
+<SOLNBR>W912QR-14-T-0080
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0902
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Louisville
+<SOLNBR>W912QR-41960258
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0827
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Louisville
+<SOLNBR>W912QR-42323063
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0819
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, New Orleans
+<SOLNBR>W912P8-14-R-0041
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0814
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Omaha
+<SOLNBR>W9128F14QK009
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0602
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Portland
+<SOLNBR>W9127N14R0017
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Seattle
+<SOLNBR>W68MD941324165
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Seattle
+<SOLNBR>W912DW-14-D-1013
+<NTYPE>AWARD
+<AWDNBR>W912DW-14-D-1013
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Seattle
+<SOLNBR>W68MD942540620
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Seattle
+<SOLNBR>W68MD941605566
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Seattle
+<SOLNBR>W68MD942249098
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1023
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, St.  Paul
+<SOLNBR>W912ES-15-T-0011
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Tulsa
+<SOLNBR>W912BV14T0094
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE District, Wilmington
+<SOLNBR>W912PM14T0087
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0701
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE Geospatial Center
+<SOLNBR>W5J9CQ-14-R-0006
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE Geospatial Center
+<SOLNBR>W5J9CQ-14-P-0004
+<NTYPE>AWARD
+<AWDNBR>W5J9CQ-14-P-0004
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE Geospatial Center
+<SOLNBR>W5J9CQ14T0008
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE Geospatial Center
+<SOLNBR>W5J9CQ14P0008
+<NTYPE>FAIROPP
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0618
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE HNC, Huntsville
+<SOLNBR>W912DY14R0068
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0905
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE ITL, GSL, EL, CHL, Vicksburg
+<SOLNBR>W81EWF41627356A
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Corps of Engineers
+<LOCATION>USACE ITL, GSL, EL, CHL, Vicksburg
+<SOLNBR>W912HZ41627392
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0048
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0052
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0053
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0047
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0059
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0058
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Intelligence and Security Command
+<LOCATION>HQ USAINSCOM, Directorate of Contracting
+<SOLNBR>W911W4-14-T-0044
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Medical Command
+<LOCATION>MEDCOM, North Atlantic Regional Contracting Office
+<SOLNBR>W91YTZ-14-T-0201
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Medical Command
+<LOCATION>Pacific Regional Contr Ofc TAMC
+<SOLNBR>W81K02-14-T-0156
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0827
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Medical Command
+<LOCATION>Southern Regional Contracting Ofc
+<SOLNBR>W81K0014TM582
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Medical Research Acquisition Activity
+<LOCATION>U.S. Army Medical Research Acquisition Activity
+<SOLNBR>ALB-22111
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0909
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Medical Research Acquisition Activity
+<LOCATION>U.S. Army Medical Research Acquisition Activity
+<SOLNBR>0010522011-0002
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Department of the Army
+<OFFICE>U.S. Army Medical Research Acquisition Activity
+<LOCATION>U.S. Army Medical Research Acquisition Activity
+<SOLNBR>W81XWH15T0003
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Other Defense Agencies
+<OFFICE>U.S. Special Operations Command
+<LOCATION>NAVSOC
+<SOLNBR>H92240-15-T-0009
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0505
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>C4IT (C3CEN)
+<SOLNBR>21-14-444PCZ516
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commandant (CG-912), U.S. Coast Guard Headquarters
+<SOLNBR>HSCG23-15-I-PUD604
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-15-Q-010016
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-15-Q-010015
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1024
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-14-Q-200002
+<NTYPE>AWARD
+<AWDNBR>HSCG38-14-D-202028
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-15-Q-010014
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1010
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-15-I-C00002
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1016
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-15-Q-400015
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1002
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>Commanding Officer, USCG Aviation Logistics Center
+<SOLNBR>HSCG38-15-S-J00004
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1020
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-15-Q-5Y1003
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0811
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-14-Q-19005
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1017
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG80-15-Q-PC001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-15-Q-NM001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-15-Q-49004
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-15-Q-ZC005
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-15-Q-40000
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) 
+<SOLNBR>HSCG40-15-Q-40001
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1021
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) Procurement Branch 1
+<SOLNBR>HSCG80-15-Q-P45073
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1028
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) Procurement Branch 1
+<SOLNBR>HSCG80-15-Q-P45005
+<NTYPE>AWARD
+<AWDNBR>HSCG80-15-C-P45005
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1010
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) Procurement Branch 1
+<SOLNBR>HSCG40-15-Q-00004
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1010
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Coast Guard (USCG)
+<LOCATION>USCG Surface Forces Logistics Center (SFLC) Procurement Branch 2
+<SOLNBR>FY15_Dock-side_USCGC_FIR_(WLB-213)
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0917
+<YEAR>14
+<AGENCY>Department of the Navy
+<OFFICE>United States Marine Corps
+<LOCATION>Marine Corps Logistics Command (LOGCOM)
+<SOLNBR>M67004-14-T-0134
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1008
+<YEAR>14
+<AGENCY>Department of Homeland Security
+<OFFICE>United States Secret Service (USSS)
+<LOCATION>Procurement Division
+<SOLNBR>HSSS01-15-Q-0002
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0825
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Ann Arbor Health Care System
+<LOCATION>Department of Veterans Affairs Ann Arbor Health Care System
+<SOLNBR>VA25114Q0580
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0926
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Center for Acquisition Innovation (Washington)
+<LOCATION>VA CAI Washington
+<SOLNBR>VA101V14R0301
+<NTYPE>AWARD
+<AWDNBR>VA101V-14-C-0095
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0903
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Central Arkansas Health Care System
+<LOCATION>Department of Veterans Affairs Central Arkansas Veterans Health Care System
+<SOLNBR>VA25614I1461
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0910
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Heartland Network
+<LOCATION>Department of Veterans Affairs Heartland Network
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0903
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Heartland Network
+<LOCATION>Department of Veterans Affairs Heartland Network
+<SOLNBR>VA25514R1827
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0910
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Heartland Network
+<LOCATION>Department of Veterans Affairs Heartland Network
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0530
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA National Acquisition Center
+<LOCATION>Department of Veterans Affairs National Acquisition Center
+<SOLNBR>VA797H14Q0013
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0904
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA National Cemetery Administration Centralized Contracting Division
+<LOCATION>Department of Veterans Affairs National Cemetery Administration
+<SOLNBR>VA78614R0366
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0904
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA National Cemetery Administration Centralized Contracting Division
+<LOCATION>Department of Veterans Affairs National Cemetery Administration
+<SOLNBR>VA78614R0369
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1023
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA North Texas Health Care System
+<LOCATION>Department of Veterans Affairs No. Texas Health Care System
+<SOLNBR>VA25715Q0122
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0728
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Northern California Health Care System
+<LOCATION>Department of Veterans Affairs No. California Health Care System System
+<SOLNBR>VA26114R0957
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Northwest Health Network
+<LOCATION>VA Northwest Health Network
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1009
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Northwest Health Network
+<LOCATION>VA Northwest Health Network
+<SOLNBR>
+<NTYPE>JA
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1015
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Rocky Mountain Consolidated Contracting Center
+<LOCATION>Department of Veterans Affairs
+<SOLNBR>VA25915Q0019
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0904
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Service Area Organization Central
+<LOCATION>VA Service Area Organization Central
+<SOLNBR>VA25014Q0585
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1021
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA South Texas Health Care System
+<LOCATION>Department of Veterans Affairs South Texas Health Care System
+<SOLNBR>VA25715N0110
+<NTYPE>SRCSGT
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0812
+<YEAR>14
+<AGENCY>Department of Veterans Affairs
+<OFFICE>VA Technology Acquisition Center
+<LOCATION>VA Technology Acquisition Center
+<SOLNBR>VA11814R0544
+<NTYPE>PRESOL
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>1014
+<YEAR>14
+<AGENCY>Other Defense Agencies
+<OFFICE>Washington Headquarters Services
+<LOCATION>WHS, Acquisition Directorate
+<SOLNBR>HQ0034-15-P-0005
+<NTYPE>SNOTE
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
+<ARCHIVE>
+<DATE>0925
+<YEAR>14
+<AGENCY>Other Defense Agencies
+<OFFICE>Washington Headquarters Services
+<LOCATION>WHS, Acquisition Directorate
+<SOLNBR>HQ0034-14-R-0163
+<NTYPE>COMBINE  
+<ARCHDATE>11082014
+</ARCHIVE>
+
+
